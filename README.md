@@ -1,3 +1,3 @@
-# BIOMI 568 Bioinformatics
+# BIOMI 568 Introduction to Bioinformatics
 
-This repository contains all the homework assignments and final project scripts of mine for Fall 2022 version of the class BIOMI 568 - Bioinformatics offered at San Diego State University.
+This repository contains all my homework assignments and final project scripts for the Fall 2022 version of the BIOMI 568 - Introduction to Bioinformatics class offered at San Diego State University.
